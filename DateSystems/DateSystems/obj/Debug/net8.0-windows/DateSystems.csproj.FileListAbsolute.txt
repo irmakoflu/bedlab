@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\bin\Debug\net8.0-windows\DateSystems.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\bin\Debug\net8.0-windows\DateSystems.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\bin\Debug\net8.0-windows\DateSystems.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\bin\Debug\net8.0-windows\DateSystems.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\bin\Debug\net8.0-windows\DateSystems.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\DateSystems.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\DateSystems.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\DateSystems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\DateSystems.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\DateSystems.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\DateSystems.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\DateSystems.sourcelink.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\DateSystems.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\refint\DateSystems.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\DateSystems.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\DateSystems.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\DateSystems\DateSystems\obj\Debug\net8.0-windows\ref\DateSystems.dll

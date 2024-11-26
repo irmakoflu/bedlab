@@ -4,14 +4,15 @@ C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\bin\Debug\net8.0-wind
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\bin\Debug\net8.0-windows\Grenades.dll
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\bin\Debug\net8.0-windows\Grenades.pdb
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.Resource1.resources
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.csproj.GenerateResource.cache
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.AssemblyInfoInputs.cache
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.AssemblyInfo.cs
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.sourcelink.json
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.dll
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\refint\Grenades.dll
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.pdb
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.genruntimeconfig.cache
 C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\ref\Grenades.dll
-C:\Users\User\OneDrive\Masaüstü\BEDLAB\Grenades\Grenades\obj\Debug\net8.0-windows\Grenades.Resources.resources

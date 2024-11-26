@@ -30,46 +30,55 @@
         {
             components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            character = new PictureBox();
-            generatingtimer = new System.Windows.Forms.Timer(components);
-            ((System.ComponentModel.ISupportInitialize)character).BeginInit();
+            pictureBox1 = new PictureBox();
+            generationtimer = new System.Windows.Forms.Timer(components);
+            movementtimer = new System.Windows.Forms.Timer(components);
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             SuspendLayout();
             // 
-            // character
+            // pictureBox1
             // 
-            character.Image = Resources.runner_left;
-            character.Location = new Point(379, 330);
-            character.Name = "character";
-            character.Size = new Size(50, 50);
-            character.SizeMode = PictureBoxSizeMode.CenterImage;
-            character.TabIndex = 0;
-            character.TabStop = false;
+            pictureBox1.Image = Resource1.runner_left;
+            pictureBox1.Location = new Point(356, 332);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(50, 50);
+            pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
+            pictureBox1.TabIndex = 0;
+            pictureBox1.TabStop = false;
             // 
-            // generatingtimer
+            // generationtimer
             // 
-            generatingtimer.Enabled = true;
-            generatingtimer.Interval = 2000;
-            generatingtimer.Tick += generatingtimer_Tick;
+            generationtimer.Enabled = true;
+            generationtimer.Interval = 2000;
+            generationtimer.Tick += generationtimer_Tick;
+            // 
+            // movementtimer
+            // 
+            movementtimer.Enabled = true;
+            movementtimer.Interval = 2;
+            movementtimer.Tick += movementtimer_Tick;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
-            ClientSize = new Size(832, 403);
-            Controls.Add(character);
+            ClientSize = new Size(782, 403);
+            Controls.Add(pictureBox1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
             Icon = (Icon)resources.GetObject("$this.Icon");
             Name = "Form1";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Grenades";
-            ((System.ComponentModel.ISupportInitialize)character).EndInit();
+            KeyDown += Form1_KeyDown;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
             ResumeLayout(false);
         }
 
         #endregion
 
-        private PictureBox character;
-        private System.Windows.Forms.Timer generatingtimer;
+        private PictureBox pictureBox1;
+        private System.Windows.Forms.Timer generationtimer;
+        private System.Windows.Forms.Timer movementtimer;
     }
 }

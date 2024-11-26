@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Grenades")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6cdd3fbcc6867e038d075c48930fe2ef99e46eaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d73cffa7de507dd56e67cbf7bcc4904d3dcdb493")]
 [assembly: System.Reflection.AssemblyProductAttribute("Grenades")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Grenades")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

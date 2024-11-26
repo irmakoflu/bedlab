@@ -1,7 +1,0 @@
-C:\Users\User\OneDrive\Masaüstü\BEDLAB\SoundAdd\SoundAdd\obj\Debug\net8.0-windows\SoundAdd.Form1.resources
-C:\Users\User\OneDrive\Masaüstü\BEDLAB\SoundAdd\SoundAdd\obj\Debug\net8.0-windows\SoundAdd.Resources.resources
-C:\Users\User\OneDrive\Masaüstü\BEDLAB\SoundAdd\SoundAdd\obj\Debug\net8.0-windows\SoundAdd.csproj.GenerateResource.cache
-C:\Users\User\OneDrive\Masaüstü\BEDLAB\SoundAdd\SoundAdd\obj\Debug\net8.0-windows\SoundAdd.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\User\OneDrive\Masaüstü\BEDLAB\SoundAdd\SoundAdd\obj\Debug\net8.0-windows\SoundAdd.AssemblyInfoInputs.cache
-C:\Users\User\OneDrive\Masaüstü\BEDLAB\SoundAdd\SoundAdd\obj\Debug\net8.0-windows\SoundAdd.AssemblyInfo.cs
-C:\Users\User\OneDrive\Masaüstü\BEDLAB\SoundAdd\SoundAdd\obj\Debug\net8.0-windows\SoundAdd.csproj.CoreCompileInputs.cache
