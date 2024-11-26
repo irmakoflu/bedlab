@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\bin\Debug\net8.0-windows\box.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\bin\Debug\net8.0-windows\box.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\bin\Debug\net8.0-windows\box.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\bin\Debug\net8.0-windows\box.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\bin\Debug\net8.0-windows\box.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\obj\Debug\net8.0-windows\box.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\obj\Debug\net8.0-windows\box.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\obj\Debug\net8.0-windows\box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\obj\Debug\net8.0-windows\box.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\obj\Debug\net8.0-windows\box.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\obj\Debug\net8.0-windows\box.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\obj\Debug\net8.0-windows\box.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\obj\Debug\net8.0-windows\refint\box.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\obj\Debug\net8.0-windows\box.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\obj\Debug\net8.0-windows\box.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\box\box\obj\Debug\net8.0-windows\ref\box.dll

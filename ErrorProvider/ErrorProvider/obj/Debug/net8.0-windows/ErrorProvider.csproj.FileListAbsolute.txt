@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\bin\Debug\net8.0-windows\ErrorProvider.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\bin\Debug\net8.0-windows\ErrorProvider.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\bin\Debug\net8.0-windows\ErrorProvider.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\bin\Debug\net8.0-windows\ErrorProvider.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\bin\Debug\net8.0-windows\ErrorProvider.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\refint\ErrorProvider.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ErrorProvider.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ErrorProvider\ErrorProvider\obj\Debug\net8.0-windows\ref\ErrorProvider.dll

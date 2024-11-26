@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\NotifyIcon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{728A9FEE-9425-4E48-B1B8-D7C9C5A1EAD5}|NotifyIcon\\NotifyIcon.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\notifyicon\\notifyicon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{728A9FEE-9425-4E48-B1B8-D7C9C5A1EAD5}|NotifyIcon\\NotifyIcon.csproj|solutionrelative:notifyicon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{728A9FEE-9425-4E48-B1B8-D7C9C5A1EAD5}|NotifyIcon\\NotifyIcon.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\notifyicon\\notifyicon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{728A9FEE-9425-4E48-B1B8-D7C9C5A1EAD5}|NotifyIcon\\NotifyIcon.csproj|solutionrelative:notifyicon\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\NotifyIcon\\NotifyIcon\\Form1.cs",
+              "RelativeDocumentMoniker": "NotifyIcon\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\NotifyIcon\\NotifyIcon\\Form1.cs",
+              "RelativeToolTip": "NotifyIcon\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:01:06.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\NotifyIcon\\NotifyIcon\\Form1.cs",
+              "RelativeDocumentMoniker": "NotifyIcon\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\NotifyIcon\\NotifyIcon\\Form1.cs [Design]",
+              "RelativeToolTip": "NotifyIcon\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:55:17.413Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\bin\Debug\net8.0-windows\keyEvents2.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\bin\Debug\net8.0-windows\keyEvents2.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\bin\Debug\net8.0-windows\keyEvents2.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\bin\Debug\net8.0-windows\keyEvents2.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\bin\Debug\net8.0-windows\keyEvents2.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\obj\Debug\net8.0-windows\keyEvents2.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\obj\Debug\net8.0-windows\keyEvents2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\obj\Debug\net8.0-windows\keyEvents2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\obj\Debug\net8.0-windows\keyEvents2.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\obj\Debug\net8.0-windows\keyEvents2.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\obj\Debug\net8.0-windows\keyEvents2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\obj\Debug\net8.0-windows\keyEvents2.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\obj\Debug\net8.0-windows\refint\keyEvents2.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\obj\Debug\net8.0-windows\keyEvents2.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\obj\Debug\net8.0-windows\keyEvents2.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\keyEvents2\keyEvents2\obj\Debug\net8.0-windows\ref\keyEvents2.dll

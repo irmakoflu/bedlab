@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\bin\Debug\net8.0-windows\MouseEnter.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\bin\Debug\net8.0-windows\MouseEnter.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\bin\Debug\net8.0-windows\MouseEnter.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\bin\Debug\net8.0-windows\MouseEnter.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\bin\Debug\net8.0-windows\MouseEnter.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\obj\Debug\net8.0-windows\MouseEnter.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\obj\Debug\net8.0-windows\MouseEnter.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\obj\Debug\net8.0-windows\MouseEnter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\obj\Debug\net8.0-windows\MouseEnter.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\obj\Debug\net8.0-windows\MouseEnter.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\obj\Debug\net8.0-windows\MouseEnter.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\obj\Debug\net8.0-windows\MouseEnter.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\obj\Debug\net8.0-windows\refint\MouseEnter.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\obj\Debug\net8.0-windows\MouseEnter.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\obj\Debug\net8.0-windows\MouseEnter.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseEnter\MouseEnter\obj\Debug\net8.0-windows\ref\MouseEnter.dll

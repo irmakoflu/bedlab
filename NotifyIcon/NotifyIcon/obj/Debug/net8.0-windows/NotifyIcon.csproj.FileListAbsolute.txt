@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\bin\Debug\net8.0-windows\NotifyIcon.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\bin\Debug\net8.0-windows\NotifyIcon.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\bin\Debug\net8.0-windows\NotifyIcon.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\bin\Debug\net8.0-windows\NotifyIcon.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\bin\Debug\net8.0-windows\NotifyIcon.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.Properties.Resources.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\refint\NotifyIcon.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\NotifyIcon.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\NotifyIcon\NotifyIcon\obj\Debug\net8.0-windows\ref\NotifyIcon.dll

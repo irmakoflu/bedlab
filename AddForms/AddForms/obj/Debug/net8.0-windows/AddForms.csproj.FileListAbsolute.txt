@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\bin\Debug\net8.0-windows\AddForms.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\bin\Debug\net8.0-windows\AddForms.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\bin\Debug\net8.0-windows\AddForms.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\bin\Debug\net8.0-windows\AddForms.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\bin\Debug\net8.0-windows\AddForms.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\AddForms.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\AddForms.Form2.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\AddForms.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\AddForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\AddForms.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\AddForms.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\AddForms.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\AddForms.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\refint\AddForms.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\AddForms.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\AddForms.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\AddForms\AddForms\obj\Debug\net8.0-windows\ref\AddForms.dll

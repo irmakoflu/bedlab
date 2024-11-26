@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\bin\Debug\net8.0\dizisiralamavebulma.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\bin\Debug\net8.0\dizisiralamavebulma.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\bin\Debug\net8.0\dizisiralamavebulma.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\bin\Debug\net8.0\dizisiralamavebulma.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\bin\Debug\net8.0\dizisiralamavebulma.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\obj\Debug\net8.0\dizisiralamavebulma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\obj\Debug\net8.0\dizisiralamavebulma.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\obj\Debug\net8.0\dizisiralamavebulma.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\obj\Debug\net8.0\dizisiralamavebulma.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\obj\Debug\net8.0\dizisiralamavebulma.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\obj\Debug\net8.0\refint\dizisiralamavebulma.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\obj\Debug\net8.0\dizisiralamavebulma.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\obj\Debug\net8.0\dizisiralamavebulma.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\dizisiralamavebulma\dizisiralamavebulma\obj\Debug\net8.0\ref\dizisiralamavebulma.dll

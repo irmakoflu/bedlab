@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\bin\Debug\net8.0-windows\MouseLeaveEvent.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\bin\Debug\net8.0-windows\MouseLeaveEvent.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\bin\Debug\net8.0-windows\MouseLeaveEvent.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\bin\Debug\net8.0-windows\MouseLeaveEvent.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\bin\Debug\net8.0-windows\MouseLeaveEvent.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\obj\Debug\net8.0-windows\MouseLeaveEvent.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\obj\Debug\net8.0-windows\MouseLeaveEvent.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\obj\Debug\net8.0-windows\MouseLeaveEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\obj\Debug\net8.0-windows\MouseLeaveEvent.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\obj\Debug\net8.0-windows\MouseLeaveEvent.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\obj\Debug\net8.0-windows\MouseLeaveEvent.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\obj\Debug\net8.0-windows\MouseLeaveEvent.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\obj\Debug\net8.0-windows\refint\MouseLeaveEvent.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\obj\Debug\net8.0-windows\MouseLeaveEvent.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\obj\Debug\net8.0-windows\MouseLeaveEvent.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\MouseLeaveEvent\MouseLeaveEvent\obj\Debug\net8.0-windows\ref\MouseLeaveEvent.dll

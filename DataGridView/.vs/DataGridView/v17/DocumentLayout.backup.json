@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\DataGridView\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D3DAB9-A8FD-4640-A75C-2106F8F7B86A}|DataGridView\\DataGridView.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\datagridview\\datagridview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E1D3DAB9-A8FD-4640-A75C-2106F8F7B86A}|DataGridView\\DataGridView.csproj|solutionrelative:datagridview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D3DAB9-A8FD-4640-A75C-2106F8F7B86A}|DataGridView\\DataGridView.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\datagridview\\datagridview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D3DAB9-A8FD-4640-A75C-2106F8F7B86A}|DataGridView\\DataGridView.csproj|solutionrelative:datagridview\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\DataGridView\\DataGridView\\Form1.cs",
+              "RelativeDocumentMoniker": "DataGridView\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\DataGridView\\DataGridView\\Form1.cs",
+              "RelativeToolTip": "DataGridView\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:32:17.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\DataGridView\\DataGridView\\Form1.cs",
+              "RelativeDocumentMoniker": "DataGridView\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\DataGridView\\DataGridView\\Form1.cs [Design]",
+              "RelativeToolTip": "DataGridView\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:19:32.983Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

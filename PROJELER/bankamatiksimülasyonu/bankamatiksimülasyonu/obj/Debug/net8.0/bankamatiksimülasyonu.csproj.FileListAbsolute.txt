@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\bin\Debug\net8.0\bankamatiksimülasyonu.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\bin\Debug\net8.0\bankamatiksimülasyonu.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\bin\Debug\net8.0\bankamatiksimülasyonu.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\bin\Debug\net8.0\bankamatiksimülasyonu.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\bin\Debug\net8.0\bankamatiksimülasyonu.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\obj\Debug\net8.0\bankamatiksimülasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\obj\Debug\net8.0\bankamatiksimülasyonu.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\obj\Debug\net8.0\bankamatiksimülasyonu.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\obj\Debug\net8.0\bankamatiksimülasyonu.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\obj\Debug\net8.0\bankamatiksimülasyonu.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\obj\Debug\net8.0\refint\bankamatiksimülasyonu.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\obj\Debug\net8.0\bankamatiksimülasyonu.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\obj\Debug\net8.0\bankamatiksimülasyonu.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\bankamatiksimülasyonu\bankamatiksimülasyonu\obj\Debug\net8.0\ref\bankamatiksimülasyonu.dll

@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\Grenades\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B2F98-35CA-4921-B63C-864F9B340AF4}|Grenades\\Grenades.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\grenades\\grenades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F16B2F98-35CA-4921-B63C-864F9B340AF4}|Grenades\\Grenades.csproj|solutionrelative:grenades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B2F98-35CA-4921-B63C-864F9B340AF4}|Grenades\\Grenades.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\grenades\\grenades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F16B2F98-35CA-4921-B63C-864F9B340AF4}|Grenades\\Grenades.csproj|solutionrelative:grenades\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F16B2F98-35CA-4921-B63C-864F9B340AF4}|Grenades\\Grenades.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\grenades\\grenades\\resources\\grenade.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{F16B2F98-35CA-4921-B63C-864F9B340AF4}|Grenades\\Grenades.csproj|solutionrelative:grenades\\resources\\grenade.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "grenade.png",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\Grenades\\Grenades\\Resources\\grenade.png",
+              "RelativeDocumentMoniker": "Grenades\\Resources\\grenade.png",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\Grenades\\Grenades\\Resources\\grenade.png",
+              "RelativeToolTip": "Grenades\\Resources\\grenade.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-11-21T15:44:55.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\Grenades\\Grenades\\Form1.cs",
+              "RelativeDocumentMoniker": "Grenades\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\Grenades\\Grenades\\Form1.cs*",
+              "RelativeToolTip": "Grenades\\Form1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:39:59.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\Grenades\\Grenades\\Form1.cs",
+              "RelativeDocumentMoniker": "Grenades\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\Grenades\\Grenades\\Form1.cs [Design]*",
+              "RelativeToolTip": "Grenades\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:33:12.594Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

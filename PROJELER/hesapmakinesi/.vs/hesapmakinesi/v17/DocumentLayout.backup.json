@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\hesapmakinesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62185713-084F-4FC7-8C6E-378616BECEC7}|hesapmakinesi\\hesapmakinesi.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\hesapmakinesi\\hesapmakinesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62185713-084F-4FC7-8C6E-378616BECEC7}|hesapmakinesi\\hesapmakinesi.csproj|solutionrelative:hesapmakinesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\hesapmakinesi\\hesapmakinesi\\Program.cs",
+              "RelativeDocumentMoniker": "hesapmakinesi\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\hesapmakinesi\\hesapmakinesi\\Program.cs",
+              "RelativeToolTip": "hesapmakinesi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:14:22.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

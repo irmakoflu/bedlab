@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\DialogResult\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E801C4-5ACD-4770-AD00-60F797B0EDFF}|dialogresult\\dialogresult.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\dialogresult\\dialogresult\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A6E801C4-5ACD-4770-AD00-60F797B0EDFF}|dialogresult\\dialogresult.csproj|solutionrelative:dialogresult\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\DialogResult\\dialogresult\\Form1.cs",
+              "RelativeDocumentMoniker": "dialogresult\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\DialogResult\\dialogresult\\Form1.cs [Design]*",
+              "RelativeToolTip": "dialogresult\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:37:53.467Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

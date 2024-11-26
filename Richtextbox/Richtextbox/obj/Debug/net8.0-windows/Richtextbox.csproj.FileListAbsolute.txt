@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\bin\Debug\net8.0-windows\Richtextbox.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\bin\Debug\net8.0-windows\Richtextbox.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\bin\Debug\net8.0-windows\Richtextbox.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\bin\Debug\net8.0-windows\Richtextbox.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\bin\Debug\net8.0-windows\Richtextbox.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\obj\Debug\net8.0-windows\Richtextbox.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\obj\Debug\net8.0-windows\Richtextbox.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\obj\Debug\net8.0-windows\Richtextbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\obj\Debug\net8.0-windows\Richtextbox.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\obj\Debug\net8.0-windows\Richtextbox.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\obj\Debug\net8.0-windows\Richtextbox.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\obj\Debug\net8.0-windows\Richtextbox.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\obj\Debug\net8.0-windows\refint\Richtextbox.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\obj\Debug\net8.0-windows\Richtextbox.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\obj\Debug\net8.0-windows\Richtextbox.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Richtextbox\Richtextbox\obj\Debug\net8.0-windows\ref\Richtextbox.dll

@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\bin\Debug\net8.0\ogrencinothesaplama.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\bin\Debug\net8.0\ogrencinothesaplama.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\bin\Debug\net8.0\ogrencinothesaplama.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\bin\Debug\net8.0\ogrencinothesaplama.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\bin\Debug\net8.0\ogrencinothesaplama.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\obj\Debug\net8.0\ogrencinothesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\obj\Debug\net8.0\ogrencinothesaplama.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\obj\Debug\net8.0\ogrencinothesaplama.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\obj\Debug\net8.0\ogrencinothesaplama.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\obj\Debug\net8.0\ogrencinothesaplama.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\obj\Debug\net8.0\refint\ogrencinothesaplama.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\obj\Debug\net8.0\ogrencinothesaplama.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\obj\Debug\net8.0\ogrencinothesaplama.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\ogrencinothesaplama\ogrencinothesaplama\obj\Debug\net8.0\ref\ogrencinothesaplama.dll

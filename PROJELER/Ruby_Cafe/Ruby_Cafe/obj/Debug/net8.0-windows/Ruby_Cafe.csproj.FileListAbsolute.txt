@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\bin\Debug\net8.0-windows\Ruby_Cafe.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\bin\Debug\net8.0-windows\Ruby_Cafe.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\bin\Debug\net8.0-windows\Ruby_Cafe.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\bin\Debug\net8.0-windows\Ruby_Cafe.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\bin\Debug\net8.0-windows\Ruby_Cafe.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\Ruby_Cafe.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\Ruby_Cafe.Properties.Resources.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\Ruby_Cafe.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\Ruby_Cafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\Ruby_Cafe.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\Ruby_Cafe.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\Ruby_Cafe.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\Ruby_Cafe.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\refint\Ruby_Cafe.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\Ruby_Cafe.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\Ruby_Cafe.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Ruby_Cafe\Ruby_Cafe\obj\Debug\net8.0-windows\ref\Ruby_Cafe.dll

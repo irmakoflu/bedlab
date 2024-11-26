@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\bin\Debug\net8.0-windows\loadform.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\bin\Debug\net8.0-windows\loadform.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\bin\Debug\net8.0-windows\loadform.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\bin\Debug\net8.0-windows\loadform.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\bin\Debug\net8.0-windows\loadform.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\obj\Debug\net8.0-windows\loadform.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\obj\Debug\net8.0-windows\loadform.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\obj\Debug\net8.0-windows\loadform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\obj\Debug\net8.0-windows\loadform.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\obj\Debug\net8.0-windows\loadform.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\obj\Debug\net8.0-windows\loadform.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\obj\Debug\net8.0-windows\loadform.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\obj\Debug\net8.0-windows\refint\loadform.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\obj\Debug\net8.0-windows\loadform.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\obj\Debug\net8.0-windows\loadform.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\loadform\loadform\obj\Debug\net8.0-windows\ref\loadform.dll

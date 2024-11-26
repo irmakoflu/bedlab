@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\bin\Debug\net8.0-windows\kullanıcıbilgisi.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\bin\Debug\net8.0-windows\kullanıcıbilgisi.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\bin\Debug\net8.0-windows\kullanıcıbilgisi.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\bin\Debug\net8.0-windows\kullanıcıbilgisi.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\bin\Debug\net8.0-windows\kullanıcıbilgisi.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\obj\Debug\net8.0-windows\kullanıcıbilgisi.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\obj\Debug\net8.0-windows\kullanıcıbilgisi.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\obj\Debug\net8.0-windows\kullanıcıbilgisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\obj\Debug\net8.0-windows\kullanıcıbilgisi.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\obj\Debug\net8.0-windows\kullanıcıbilgisi.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\obj\Debug\net8.0-windows\kullanıcıbilgisi.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\obj\Debug\net8.0-windows\kullanıcıbilgisi.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\obj\Debug\net8.0-windows\refint\kullanıcıbilgisi.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\obj\Debug\net8.0-windows\kullanıcıbilgisi.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\obj\Debug\net8.0-windows\kullanıcıbilgisi.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\kullanıcıbilgisi\kullanıcıbilgisi\obj\Debug\net8.0-windows\ref\kullanıcıbilgisi.dll

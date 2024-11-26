@@ -1,0 +1,16 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\bin\Debug\net8.0-windows\Location.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\bin\Debug\net8.0-windows\Location.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\bin\Debug\net8.0-windows\Location.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\bin\Debug\net8.0-windows\Location.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\bin\Debug\net8.0-windows\Location.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\obj\Debug\net8.0-windows\Location.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\obj\Debug\net8.0-windows\Location.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\obj\Debug\net8.0-windows\Location.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\obj\Debug\net8.0-windows\Location.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\obj\Debug\net8.0-windows\Location.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\obj\Debug\net8.0-windows\Location.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\obj\Debug\net8.0-windows\Location.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\obj\Debug\net8.0-windows\refint\Location.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\obj\Debug\net8.0-windows\Location.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\obj\Debug\net8.0-windows\Location.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\Location\Location\obj\Debug\net8.0-windows\ref\Location.dll

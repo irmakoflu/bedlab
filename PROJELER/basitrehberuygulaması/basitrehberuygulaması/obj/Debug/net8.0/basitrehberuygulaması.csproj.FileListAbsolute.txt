@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\bin\Debug\net8.0\basitrehberuygulaması.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\bin\Debug\net8.0\basitrehberuygulaması.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\bin\Debug\net8.0\basitrehberuygulaması.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\bin\Debug\net8.0\basitrehberuygulaması.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\bin\Debug\net8.0\basitrehberuygulaması.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\obj\Debug\net8.0\basitrehberuygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\obj\Debug\net8.0\basitrehberuygulaması.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\obj\Debug\net8.0\basitrehberuygulaması.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\obj\Debug\net8.0\basitrehberuygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\obj\Debug\net8.0\basitrehberuygulaması.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\obj\Debug\net8.0\refint\basitrehberuygulaması.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\obj\Debug\net8.0\basitrehberuygulaması.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\obj\Debug\net8.0\basitrehberuygulaması.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\basitrehberuygulaması\basitrehberuygulaması\obj\Debug\net8.0\ref\basitrehberuygulaması.dll
