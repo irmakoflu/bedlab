@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\bin\Debug\net8.0-windows\KartUygulaması.exe
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\bin\Debug\net8.0-windows\KartUygulaması.deps.json
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\bin\Debug\net8.0-windows\KartUygulaması.runtimeconfig.json
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\bin\Debug\net8.0-windows\KartUygulaması.dll
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\bin\Debug\net8.0-windows\KartUygulaması.pdb
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\KartUygulaması.Form1.resources
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\KartUygulaması.Resource1.resources
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\KartUygulaması.csproj.GenerateResource.cache
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\KartUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\KartUygulaması.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\KartUygulaması.AssemblyInfo.cs
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\KartUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\KartUygulaması.dll
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\refint\KartUygulaması.dll
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\KartUygulaması.pdb
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\KartUygulaması.genruntimeconfig.cache
+C:\Users\User\source\repos\KartUygulaması\KartUygulaması\obj\Debug\net8.0-windows\ref\KartUygulaması.dll
