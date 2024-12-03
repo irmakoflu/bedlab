@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\FilesApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60F9EC-913F-42CD-A59E-240927B8F88F}|FilesApplication\\FilesApplication.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\filesapplication\\filesapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D60F9EC-913F-42CD-A59E-240927B8F88F}|FilesApplication\\FilesApplication.csproj|solutionrelative:filesapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60F9EC-913F-42CD-A59E-240927B8F88F}|FilesApplication\\FilesApplication.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\filesapplication\\filesapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D60F9EC-913F-42CD-A59E-240927B8F88F}|FilesApplication\\FilesApplication.csproj|solutionrelative:filesapplication\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60F9EC-913F-42CD-A59E-240927B8F88F}|FilesApplication\\FilesApplication.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\filesapplication\\filesapplication\\resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{6D60F9EC-913F-42CD-A59E-240927B8F88F}|FilesApplication\\FilesApplication.csproj|solutionrelative:filesapplication\\resource1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D60F9EC-913F-42CD-A59E-240927B8F88F}|FilesApplication\\FilesApplication.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\filesapplication\\filesapplication\\resources\\literature.png||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{6D60F9EC-913F-42CD-A59E-240927B8F88F}|FilesApplication\\FilesApplication.csproj|solutionrelative:filesapplication\\resources\\literature.png||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\FilesApplication\\FilesApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "FilesApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\FilesApplication\\FilesApplication\\Form1.cs",
+              "RelativeToolTip": "FilesApplication\\Form1.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAIA1wCoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:38:20.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Literature.png",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\FilesApplication\\FilesApplication\\Resources\\Literature.png",
+              "RelativeDocumentMoniker": "FilesApplication\\Resources\\Literature.png",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\FilesApplication\\FilesApplication\\Resources\\Literature.png",
+              "RelativeToolTip": "FilesApplication\\Resources\\Literature.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-03T12:36:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resource1.resx",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\FilesApplication\\FilesApplication\\Resource1.resx",
+              "RelativeDocumentMoniker": "FilesApplication\\Resource1.resx",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\FilesApplication\\FilesApplication\\Resource1.resx",
+              "RelativeToolTip": "FilesApplication\\Resource1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-12-03T12:31:28.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\FilesApplication\\FilesApplication\\Form1.cs",
+              "RelativeDocumentMoniker": "FilesApplication\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\FilesApplication\\FilesApplication\\Form1.cs [Design]",
+              "RelativeToolTip": "FilesApplication\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T12:13:09.736Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

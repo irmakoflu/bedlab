@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\bin\Debug\net8.0-windows\HesapMakinesimath.exe
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\bin\Debug\net8.0-windows\HesapMakinesimath.deps.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\bin\Debug\net8.0-windows\HesapMakinesimath.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\bin\Debug\net8.0-windows\HesapMakinesimath.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\bin\Debug\net8.0-windows\HesapMakinesimath.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\HesapMakinesimath.Form1.resources
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\HesapMakinesimath.csproj.GenerateResource.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\HesapMakinesimath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\HesapMakinesimath.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\HesapMakinesimath.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\HesapMakinesimath.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\HesapMakinesimath.sourcelink.json
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\HesapMakinesimath.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\refint\HesapMakinesimath.dll
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\HesapMakinesimath.pdb
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\HesapMakinesimath.genruntimeconfig.cache
+C:\Users\User\OneDrive\Masaüstü\BEDLAB\HesapMakinesimath\HesapMakinesimath\obj\Debug\net8.0-windows\ref\HesapMakinesimath.dll
