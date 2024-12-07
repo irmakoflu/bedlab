@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\userControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02025FEC-8026-4014-BC6B-11A2DB534060}|userControl\\userControl.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\usercontrol\\usercontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02025FEC-8026-4014-BC6B-11A2DB534060}|userControl\\userControl.csproj|solutionrelative:usercontrol\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02025FEC-8026-4014-BC6B-11A2DB534060}|userControl\\userControl.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\usercontrol\\usercontrol\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02025FEC-8026-4014-BC6B-11A2DB534060}|userControl\\userControl.csproj|solutionrelative:usercontrol\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02025FEC-8026-4014-BC6B-11A2DB534060}|userControl\\userControl.csproj|c:\\users\\user\\onedrive\\masa\u00FCst\u00FC\\bedlab\\usercontrol\\usercontrol\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02025FEC-8026-4014-BC6B-11A2DB534060}|userControl\\userControl.csproj|solutionrelative:usercontrol\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\userControl\\userControl\\UserControl1.cs",
+              "RelativeDocumentMoniker": "userControl\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\userControl\\userControl\\UserControl1.cs",
+              "RelativeToolTip": "userControl\\UserControl1.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:49:03.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\userControl\\userControl\\UserControl1.cs",
+              "RelativeDocumentMoniker": "userControl\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\userControl\\userControl\\UserControl1.cs [Design]",
+              "RelativeToolTip": "userControl\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:45:57.75Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\userControl\\userControl\\Form1.cs",
+              "RelativeDocumentMoniker": "userControl\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Masa\u00FCst\u00FC\\BEDLAB\\userControl\\userControl\\Form1.cs [Design]",
+              "RelativeToolTip": "userControl\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T06:42:50.85Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
